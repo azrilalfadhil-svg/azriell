@@ -12,4 +12,9 @@ alert(
   `halo nama saya ${nama}, usia saya ${usia} tahun, tinggi badan saya ${tinggibadan} cm, status pacar saya ${pacar}`
 );
 
-globalThis.alert("selesai");
+console.log("halo nama saya " + nama);
+let pesan = "usia saya " + usia + " tahun";
+console .log(pesan);log("tinggi badan saya " + tinggibadan + " cm");
+console.log("status pacar saya " + pacar);
+let jomblo = false; //tipe boolean
+console.log("apakah saya jomblo? " + jomblo);
